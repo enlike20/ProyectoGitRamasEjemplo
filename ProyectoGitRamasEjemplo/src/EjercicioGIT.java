@@ -2,8 +2,11 @@
 public class EjercicioGIT {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 System.out.println("Hola mundo");
 	}
+public static void imprimeSaludo() { 
+System.out.println(“Hei”);	
+}
 
 }
